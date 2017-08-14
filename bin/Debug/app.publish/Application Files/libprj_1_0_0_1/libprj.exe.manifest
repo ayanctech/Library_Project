@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="libprj.exe" version="1.0.0.1" publicKeyToken="7ddaeb76af95c87e" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Library.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="libprj" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="libprj.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="libprj.exe" size="8995328">
+      <assemblyIdentity name="libprj" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>9Wh2+Irkzg05Pa3eHy/PD8FNbY7EHzSTRIoFVruLwzU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="2.jpg" size="1557885">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>LHcHUr0kc9yUffhVZmWRjNE7agsNNxfiR1E/Nj4vULM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="2016-05-02_RadioChamber_ROW9081025939_1920x1080.jpg" size="341399">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>e5OMOarGtfgi9WG0HXrlsxPo4HbGa+g1N5JMxtUtRg0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="2016-05-08_NomadeAntibes_FR-FR9210511264_1920x1080.jpg" size="345476">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>geccp40vZyS939cWYbjovmLVzYbIQRMruS9VjSbR5ds=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="2016-05-31_SalzachRiverVideo_EN-AU10853485740_1920x1080.jpg" size="349271">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Dlkwk7RHw4jBWAYI2AFWVumE4CmM3ARIFfE2l2IlFAs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="books_in_church_190501.jpg" size="1530825">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>A3Xxrg7l3aKMPGLL4RU6+SPuRLhi6bHVG0WE6NGorYY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="libdb2.mdf" size="3145728" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>MX9Qxoh2v5EZlB7yBnQMXKDhRFjmE6ofPZeAmf3J5ls=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="libdb2_log.ldf" size="851968" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1yU1BzEF1Tvp8k60nJyNeZBRpI3P9VjtLETN1F+KQ74=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="libprj.exe.config" size="748">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>1AstbPoQxb+jCW1/t3JgEPp+Q4fvmAYdDfQeDhw6m2Q=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Library.ico" size="5430">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>TclPKqI+0UEGl4Te2OTtr5tlOL30fKX9MrQRV0VYA9o=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="w000127 - Copy.jpg" size="905489">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>icJuzpNCwR96WYPbgqYCKNxrIC60W83HojEvWLBeeLQ=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="w000127 - copy_001.jpg" size="60622">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>njsSkRHhAxCjUC9zyqGfo+UcZ7JVKMqGpNaiGs1099A=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="w000127 - copy_002.jpg" size="105620">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>K4+zjej+bTg0/Pzu40xM4EpoyaQ7aPxPsqdLEk3zoQg=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ACTECH-PC\A.C.TECH" issuerKeyHash="d0a159868d66e4e14596a234710e4f64000facef" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>iW/y62eoFZp7t1qdvcsIZc2fSiO8FSWkfYHjOQ9dLXA=</DigestValue></Reference></SignedInfo><SignatureValue>lRbgaQlyAjvEkGD8BpfkA8SvxbilQ8hNg3NsinTADCaoiMLHR/AdHO9Tep0ySsTBbj7+BMfk2u2PljIQ//pWYaojcIryiQL1Bkchfg7vOBt8VyFlws+zpvDXGgVdVNO7k0W8fXQOogSRmqSWw5wzvALRrCeJ/HU614MxZ+Dcpew=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uesATqc8KV/tM8/pt2VrA43ShLLxxEilIyybPgJjfcB22xy5ZwT9cTUe2AP5T92YB2wstY2Ib6jno8OGdY+JhVK+VfHuEpXKCSVB9bBIu2hyuiarsfFl6NvQaulxQQaXbbo/wdgynnY+LCZWN6yqbm737n6fowA8JknWHUrsohE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="702d5d0f39e3817da42515bc234a9fcd6508cbbd9d5ab77b9a15a867ebf26f89" Description="" Url=""><as:assemblyIdentity name="libprj.exe" version="1.0.0.1" publicKeyToken="7ddaeb76af95c87e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ACTECH-PC\A.C.TECH</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>8iRDtSnVwwItm1akZc0HMqTWioeU6tLZhVs3rSOlUjk=</DigestValue></Reference></SignedInfo><SignatureValue>JvVuUTnQg9uI4I4c0c/jCN8YeDLu8xNofN2G1j2h/uVQ67ZMe5Ozy3VkDOvy92PpqFAx14yJsP84eH5hSwWPWEUqPo7EVhjhlIs/+uwVyX7gawL8iycIyPxW7CL9qp7SxRCnAdMhzfzvMUaszSl44Xg/00O/hPj3+9Kv/gHhNxE=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uesATqc8KV/tM8/pt2VrA43ShLLxxEilIyybPgJjfcB22xy5ZwT9cTUe2AP5T92YB2wstY2Ib6jno8OGdY+JhVK+VfHuEpXKCSVB9bBIu2hyuiarsfFl6NvQaulxQQaXbbo/wdgynnY+LCZWN6yqbm737n6fowA8JknWHUrsohE=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQGWKiD6ZcX4FFto4DXBnz1DANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQAQQBDAFQARQBDAEgALQBQAEMAXABBAC4AQwAuAFQARQBDAEgwHhcNMTcwNTA4MTg1MzQxWhcNMTgwNTA5MDA1MzQxWjAvMS0wKwYDVQQDHiQAQQBDAFQARQBDAEgALQBQAEMAXABBAC4AQwAuAFQARQBDAEgwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALnrAE6nPClf7TPP6bdlawON0oSy8cRIpSMsmz4CY33AdtscuWcE/XE1HtgD+U/dmAdsLLWNiG+o56PDhnWPiYVSvlXx7hKVygklQfWwSLtocromq7HxZejb0GrpcUEGl226P8HYMp52PiwmVjesqm5u9+5+n6MAPCZJ1h1K7KIRAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAXMzyMRRbrOxToEzSEnQZTnVU+ql0feFECsBKzrBGHhy03tRMmGNBDgkZdipJOotJhiUenHz8XxfMmu0CTBIuGhc5vG+/4a6MwTFrc1FOYPtEV9R7wiF5KWWp/uJwFEqQr4dYWd0XTAIUfJxkYhHQLoxtWZ92iBNXJ3zSuRnwl04=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
