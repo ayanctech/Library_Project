@@ -1,0 +1,216 @@
+c:\users\kgec\documents\visual studio 2012\Projects\libprj\libprj\bin\Debug\libprj.exe.config
+C:\Users\kgec\Documents\Visual Studio 2012\Projects\libprj\libprj\bin\Debug\bookdb.mdf
+C:\Users\kgec\Documents\Visual Studio 2012\Projects\libprj\libprj\bin\Debug\bookdb_log.ldf
+C:\Users\kgec\Documents\Visual Studio 2012\Projects\libprj\libprj\bin\Debug\libdb.mdf
+C:\Users\kgec\Documents\Visual Studio 2012\Projects\libprj\libprj\bin\Debug\libdb_log.ldf
+C:\Users\kgec\Documents\Visual Studio 2012\Projects\libprj\libprj\bin\Debug\libprj.exe
+C:\Users\kgec\Documents\Visual Studio 2012\Projects\libprj\libprj\bin\Debug\libprj.pdb
+C:\Users\kgec\Documents\Visual Studio 2012\Projects\libprj\libprj\bin\Debug\libprj.xml
+C:\Users\kgec\Documents\Visual Studio 2012\Projects\libprj\libprj\obj\Debug\libprj.frmlgin.resources
+C:\Users\kgec\Documents\Visual Studio 2012\Projects\libprj\libprj\obj\Debug\libprj.Resources.resources
+C:\Users\kgec\Documents\Visual Studio 2012\Projects\libprj\libprj\obj\Debug\libprj.reg.resources
+C:\Users\kgec\Documents\Visual Studio 2012\Projects\libprj\libprj\obj\Debug\libprj.vbproj.GenerateResource.Cache
+C:\Users\kgec\Documents\Visual Studio 2012\Projects\libprj\libprj\obj\Debug\libprj.exe
+C:\Users\kgec\Documents\Visual Studio 2012\Projects\libprj\libprj\obj\Debug\libprj.xml
+C:\Users\kgec\Documents\Visual Studio 2012\Projects\libprj\libprj\obj\Debug\libprj.pdb
+E:\libprj\bin\Debug\libprj.exe.config
+E:\libprj\obj\Debug\libprj.exe
+E:\libprj\obj\Debug\libprj.xml
+E:\libprj\obj\Debug\libprj.pdb
+E:\libprj\bin\Debug\libdb.mdf
+E:\libprj\bin\Debug\libdb_log.ldf
+E:\libprj\bin\Debug\libprj.exe
+E:\libprj\bin\Debug\libprj.pdb
+E:\libprj\bin\Debug\libprj.xml
+E:\libprj\obj\Debug\libprj.frmlgin.resources
+E:\libprj\obj\Debug\libprj.Resources.resources
+E:\libprj\obj\Debug\libprj.reg.resources
+E:\libprj\obj\Debug\libprj.vbproj.GenerateResource.Cache
+E:\libprj\obj\Debug\libprj.home.resources
+E:\libprj\obj\Debug\libprj.bksrch2.resources
+E:\libprj\obj\Debug\libprj.logform.resources
+E:\libprj\obj\Debug\libprj.User_Info.resources
+E:\libprj\obj\Debug\libprj.Book_Transaction.resources
+E:\libprj\obj\Debug\libprj.frmadmin.resources
+E:\libprj\obj\Debug\libprj.frmtcher.resources
+E:\libprj\obj\Debug\libprj.userbk.resources
+E:\libprj\obj\Debug\libprj.adminform.resources
+E:\libprj\obj\Debug\libprj.dbupd.resources
+E:\libprj\obj\Debug\libprj.usrprf2.resources
+E:\libprj\obj\Debug\libprj.dbstdupd.resources
+E:\libprj\obj\Debug\libprj.dbtcupd.resources
+D:\libprj\bin\Debug\libprj.exe.config
+D:\libprj\obj\Debug\libprj.exe
+D:\libprj\obj\Debug\libprj.xml
+D:\libprj\obj\Debug\libprj.pdb
+D:\libprj\bin\Debug\libdb.mdf
+D:\libprj\bin\Debug\libdb_log.ldf
+D:\libprj\bin\Debug\libprj.exe
+D:\libprj\bin\Debug\libprj.pdb
+D:\libprj\bin\Debug\libprj.xml
+D:\libprj\obj\Debug\libprj.adminform.resources
+D:\libprj\obj\Debug\libprj.bksrch2.resources
+D:\libprj\obj\Debug\libprj.Book_transaction.resources
+D:\libprj\obj\Debug\libprj.dbstdupd.resources
+D:\libprj\obj\Debug\libprj.dbtcupd.resources
+D:\libprj\obj\Debug\libprj.dbupd.resources
+D:\libprj\obj\Debug\libprj.frmadmin.resources
+D:\libprj\obj\Debug\libprj.frmtcher.resources
+D:\libprj\obj\Debug\libprj.home.resources
+D:\libprj\obj\Debug\libprj.logform.resources
+D:\libprj\obj\Debug\libprj.frmlgin.resources
+D:\libprj\obj\Debug\libprj.Resources.resources
+D:\libprj\obj\Debug\libprj.reg.resources
+D:\libprj\obj\Debug\libprj.userbk.resources
+D:\libprj\obj\Debug\libprj.User_Info.resources
+D:\libprj\obj\Debug\libprj.usrprf2.resources
+D:\libprj\obj\Debug\libprj.vbproj.GenerateResource.Cache
+D:\Library Project\bin\Debug\libprj.exe.config
+D:\Library Project\obj\Debug\libprj.exe
+D:\Library Project\obj\Debug\libprj.xml
+D:\Library Project\obj\Debug\libprj.pdb
+D:\Library Project\obj\Debug\libprj.adminform.resources
+D:\Library Project\obj\Debug\libprj.bksrch2.resources
+D:\Library Project\obj\Debug\libprj.Book_transaction.resources
+D:\Library Project\obj\Debug\libprj.dbstdupd.resources
+D:\Library Project\obj\Debug\libprj.dbtcupd.resources
+D:\Library Project\obj\Debug\libprj.dbupd.resources
+D:\Library Project\obj\Debug\libprj.frmadmin.resources
+D:\Library Project\obj\Debug\libprj.frmtcher.resources
+D:\Library Project\obj\Debug\libprj.home.resources
+D:\Library Project\obj\Debug\libprj.logform.resources
+D:\Library Project\obj\Debug\libprj.frmlgin.resources
+D:\Library Project\obj\Debug\libprj.Resources.resources
+D:\Library Project\obj\Debug\libprj.reg.resources
+D:\Library Project\obj\Debug\libprj.userbk.resources
+D:\Library Project\obj\Debug\libprj.User_Info.resources
+D:\Library Project\obj\Debug\libprj.usrprf2.resources
+D:\Library Project\obj\Debug\libprj.vbproj.GenerateResource.Cache
+D:\Library_Project\bin\Debug\libprj.exe.config
+D:\Library_Project\obj\Debug\libprj.exe
+D:\Library_Project\obj\Debug\libprj.xml
+D:\Library_Project\obj\Debug\libprj.pdb
+D:\Library_Project\bin\Debug\libdb2.mdf
+D:\Library_Project\bin\Debug\libdb2_log.ldf
+D:\Library_Project\bin\Debug\libprj.exe
+D:\Library_Project\bin\Debug\libprj.pdb
+D:\Library_Project\bin\Debug\libprj.xml
+D:\Library_Project\obj\Debug\libprj.adminform.resources
+D:\Library_Project\obj\Debug\libprj.bksrch2.resources
+D:\Library_Project\obj\Debug\libprj.Book_transaction.resources
+D:\Library_Project\obj\Debug\libprj.dbstdupd.resources
+D:\Library_Project\obj\Debug\libprj.dbtcupd.resources
+D:\Library_Project\obj\Debug\libprj.dbupd.resources
+D:\Library_Project\obj\Debug\libprj.frmadmin.resources
+D:\Library_Project\obj\Debug\libprj.frmtcher.resources
+D:\Library_Project\obj\Debug\libprj.home.resources
+D:\Library_Project\obj\Debug\libprj.logform.resources
+D:\Library_Project\obj\Debug\libprj.frmlgin.resources
+D:\Library_Project\obj\Debug\libprj.Resources.resources
+D:\Library_Project\obj\Debug\libprj.reg.resources
+D:\Library_Project\obj\Debug\libprj.userbk.resources
+D:\Library_Project\obj\Debug\libprj.User_Info.resources
+D:\Library_Project\obj\Debug\libprj.usrprf2.resources
+D:\Library_Project\obj\Debug\libprj.vbproj.GenerateResource.Cache
+D:\Library_Project\obj\Debug\libprj.Fine_Pay.resources
+D:\Library_Project\obj\Debug\libprj.Fine_Pay2.resources
+D:\Library_Project\bin\Debug\libprj.exe.manifest
+D:\Library_Project\bin\Debug\libprj.application
+D:\Library_Project\obj\Debug\libprj.exe.manifest
+D:\Library_Project\obj\Debug\libprj.application
+I:\d bkup\Library_Project\bin\Debug\libprj.exe.config
+I:\d bkup\Library_Project\obj\Debug\libprj.exe
+I:\d bkup\Library_Project\obj\Debug\libprj.xml
+I:\d bkup\Library_Project\obj\Debug\libprj.pdb
+I:\d bkup\Library_Project\bin\Debug\libdb2.mdf
+I:\d bkup\Library_Project\bin\Debug\libdb2_log.ldf
+I:\d bkup\Library_Project\bin\Debug\libprj.exe.manifest
+I:\d bkup\Library_Project\bin\Debug\libprj.application
+I:\d bkup\Library_Project\bin\Debug\libprj.exe
+I:\d bkup\Library_Project\bin\Debug\libprj.pdb
+I:\d bkup\Library_Project\bin\Debug\libprj.xml
+I:\d bkup\Library_Project\obj\Debug\libprj.adminform.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.bksrch2.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.Book_transaction.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.dbstdupd.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.dbtcupd.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.dbupd.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.Fine_Pay.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.Fine_Pay2.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.frmadmin.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.frmtcher.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.home.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.logform.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.frmlgin.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.Resources.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.reg.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.userbk.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.User_Info.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.usrprf2.resources
+I:\d bkup\Library_Project\obj\Debug\libprj.vbproj.GenerateResource.Cache
+I:\d bkup\Library_Project\obj\Debug\libprj.exe.manifest
+I:\d bkup\Library_Project\obj\Debug\libprj.application
+H:\d_bkup\Library_Project\bin\Debug\libprj.exe.config
+H:\d_bkup\Library_Project\obj\Debug\libprj.exe
+H:\d_bkup\Library_Project\obj\Debug\libprj.xml
+H:\d_bkup\Library_Project\obj\Debug\libprj.pdb
+H:\d_bkup\Library_Project\bin\Debug\libdb2.mdf
+H:\d_bkup\Library_Project\bin\Debug\libdb2_log.ldf
+H:\d_bkup\Library_Project\bin\Debug\libprj.exe.manifest
+H:\d_bkup\Library_Project\bin\Debug\libprj.application
+H:\d_bkup\Library_Project\bin\Debug\libprj.exe
+H:\d_bkup\Library_Project\bin\Debug\libprj.pdb
+H:\d_bkup\Library_Project\bin\Debug\libprj.xml
+H:\d_bkup\Library_Project\obj\Debug\libprj.adminform.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.bksrch2.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.Book_transaction.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.dbstdupd.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.dbtcupd.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.dbupd.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.Fine_Pay.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.Fine_Pay2.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.frmadmin.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.frmtcher.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.home.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.logform.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.frmlgin.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.Resources.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.reg.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.userbk.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.User_Info.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.usrprf2.resources
+H:\d_bkup\Library_Project\obj\Debug\libprj.vbproj.GenerateResource.Cache
+H:\d_bkup\Library_Project\obj\Debug\libprj.exe.manifest
+H:\d_bkup\Library_Project\obj\Debug\libprj.application
+E:\Library_Project\obj\Debug\libprj.exe
+E:\Library_Project\obj\Debug\libprj.xml
+E:\Library_Project\obj\Debug\libprj.pdb
+E:\Library_Project\obj\Debug\libprj.adminform.resources
+E:\Library_Project\obj\Debug\libprj.bksrch2.resources
+E:\Library_Project\obj\Debug\libprj.Book_transaction.resources
+E:\Library_Project\obj\Debug\libprj.dbstdupd.resources
+E:\Library_Project\obj\Debug\libprj.dbtcupd.resources
+E:\Library_Project\obj\Debug\libprj.dbupd.resources
+E:\Library_Project\obj\Debug\libprj.Fine_Pay.resources
+E:\Library_Project\obj\Debug\libprj.Fine_Pay2.resources
+E:\Library_Project\obj\Debug\libprj.frmadmin.resources
+E:\Library_Project\obj\Debug\libprj.frmtcher.resources
+E:\Library_Project\obj\Debug\libprj.home.resources
+E:\Library_Project\obj\Debug\libprj.logform.resources
+E:\Library_Project\obj\Debug\libprj.frmlgin.resources
+E:\Library_Project\obj\Debug\libprj.Resources.resources
+E:\Library_Project\obj\Debug\libprj.reg.resources
+E:\Library_Project\obj\Debug\libprj.userbk.resources
+E:\Library_Project\obj\Debug\libprj.User_Info.resources
+E:\Library_Project\obj\Debug\libprj.usrprf2.resources
+E:\Library_Project\obj\Debug\libprj.vbproj.GenerateResource.Cache
+E:\Library_Project\obj\Debug\libprj.exe.manifest
+E:\Library_Project\obj\Debug\libprj.application
+E:\library_project\libprj.exe.config
+E:\library_project\libdb2.mdf
+E:\library_project\libdb2_log.ldf
+E:\library_project\libprj.exe.manifest
+E:\library_project\libprj.application
+E:\library_project\libprj.exe
+E:\library_project\libprj.pdb
+E:\library_project\libprj.xml
